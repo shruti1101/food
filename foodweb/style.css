@@ -16,7 +16,7 @@ html{
 #navbar{
     display: flex;
     align-items: center;
-    position: sticky;
+    position: relative;
     top: 0px;
 }
 
